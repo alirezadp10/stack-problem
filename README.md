@@ -1,0 +1,1 @@
+## Stack with Min in O(1) This project implements a stack with three functions: `push`, `pop`, and `min`, where the `min` function operates in O(1) time.
